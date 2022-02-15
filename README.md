@@ -1,19 +1,13 @@
-### Hey Guys 🙂
-[![telegram badge](https://img.shields.io/badge/Aadhi-30302f?style=flat&logo=telegram)](https://t.me/Aadhi011)
+## 🥰 Hi, Iam Aadhi, Welcome to my GitHub Profile
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aadhi000/&title=Profile%20Views)
+# My Social Profiles
+<p align="center">
+<a href="https://t.me/Aadhi011"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi000-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://telegram.me/Aadhi011)
-
-- 🛩 Instrested in Coding 😁
-- 📚 Still Studiying..😄
-- ⚡ fact: I am Noob😌
-- 🔭 I’m currently studying ...
-- 🌱 I’m currently wasting time ...
-- 👯 I’m looking to collaborate nothing ...
-- 💬 Don't ask me nothing...
-- 📫 How to reach me: Telegram - [@Aadhi011](https://telegram.me/Aadhi011)-->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadhi000&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
-<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aadhi000&theme=highcontrast" align="center">
+</p>
     
 ```
 Please Don't Judge Me By Anything...😔
