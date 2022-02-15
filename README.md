@@ -10,8 +10,7 @@
 - 🌱 I’m currently wasting time ...
 - 👯 I’m looking to collaborate nothing ...
 - 💬 Don't ask me nothing...
-
-- 📫 How to reach me: Telegram - [@Aadhi011](https://telegram.me/Aadhi011)-->
+- 📫 How to reach me: Telegram - [@Aadhi011](https://telegram.me/Aadhi011)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aadhi000&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
 <br>
