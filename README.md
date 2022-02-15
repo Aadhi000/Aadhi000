@@ -1,7 +1,7 @@
-### Hi there 👋
-[![telegram badge](https://img.shields.io/badge/MW-Updatez-30302f?style=flat&logo=telegram)](https://t.me/MWUpdatez)
+### Hey Guys 🙂
+[![telegram badge](https://img.shields.io/badge/Aadhi-30302f?style=flat&logo=telegram)](https://t.me/Aadhi011)
 
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://telegram.me/Physic_Hybrid)
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://telegram.me/Aadhi011)
 
 - 🛩 Instrested in Coding 😁
 - 📚 Still Studiying..😄
@@ -11,14 +11,12 @@
 - 👯 I’m looking to collaborate nothing ...
 - 💬 Don't ask me nothing...
 
-- 📫 How to reach me: Telegram - [@Aadhi011 🇵🇹/🇦🇪](https://telegram.me/Aadhi011)-->
+- 📫 How to reach me: Telegram - [@Aadhi011](https://telegram.me/Aadhi011)-->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aadhi000&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
 <br>
     
 ```
-Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
-So I have 100+ Repos Private And Contributed In Many Users Private Repos.
-So, Don't Underestimate Any Users Having Low Stats.. 😝😝🤪
+Please Don't Judge Me By Anything... I Don't Know Anything.....
 ```
 
