@@ -1,5 +1,7 @@
 ## 🥰 Hi, Iam Aadhi
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aadhi000/&title=Profile%20Views)
+
+![](https://komarev.com/ghpvc/?username=Aadhi000&color=blueviolet&style=flat)
+
 
 <p align="center">
 <a href="https://t.me/Aadhi011"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
