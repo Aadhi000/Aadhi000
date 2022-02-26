@@ -2,7 +2,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aadhi000/&title=Profile%20Views)
 
 <p align="center">
-<a href="https://t.me/Aadhi011"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Aadhi011"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
 <p align="center">
