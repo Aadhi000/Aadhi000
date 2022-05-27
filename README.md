@@ -6,7 +6,7 @@
 <a href=https://youtu.be/kB9TkCs8cX0><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href=https://www.instagram.com/_aadil_m__><img align="center" alt="Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" /></a>
 <p align="center">
-<a href="https://tg://user?id=5599684606"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://telegram.dog://user?id=5599684606"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
 ![🔥](https://github-readme-stats.vercel.app/api?username=Aadhi000&show=prs&count_private=true&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&show_icons=true&include_all_commits=true&title_color=7A7ADB&icon_color=79ff97&text_color=D3D3D3&bg_color=151515)
