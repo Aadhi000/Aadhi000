@@ -4,10 +4,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aadil_m__)
+ [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/OpusTechz)
 
-<a href=https://youtu.be/kB9TkCs8cX0><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href=https://www.instagram.com/_aadil_m__><img align="center" alt="Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" /></a>
-<p align="center">
 <a href="https://telegram.dog/ContactAdmin_0_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
