@@ -9,8 +9,9 @@
 <a href="https://telegram.dog/ContactAdmin_0_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
-![🔥](https://github-readme-stats.vercel.app/api?username=Aadhi000&show=prs&count_private=true&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&show_icons=true&include_all_commits=true&title_color=7A7ADB&icon_color=79ff97&text_color=D3D3D3&bg_color=151515)
-</br>    
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=aadhi000&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>    
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhi000&theme=highcontrast)](https://github.com/Aadhi000/github-readme-streak-stats)
 </div>
