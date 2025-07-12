@@ -18,11 +18,8 @@
 
 <p align="center">
   <a href="https://github.com/Aadhi000">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Aadhi000&theme=react-dark" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhi000&theme=react-dark" />
   </a>
 </p>
 
-<p align="center">
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-  <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">
-</p>
+
