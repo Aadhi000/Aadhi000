@@ -1,8 +1,8 @@
 
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="![](https://komarev.com/ghpvc/?username=Aadhi000)"/></p> 
-
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Aadhi000&color=green" alt="Profile views"/>
+ 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aadhi.xr)
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/OpusTechz)
 
